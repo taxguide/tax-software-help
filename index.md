@@ -49,3 +49,12 @@ To download TurboTax software:
 - [Download TurboTax](download-turbotax.md)
 - [Install TurboTax](install-turbotax.md)
 - [Activate TurboTax](activate-turbotax.md)
+
+```{toctree}
+:maxdepth: 2
+:caption: Guides
+
+download-turbotax
+install-turbotax
+activate-turbotax
+turbotax-error-fix
