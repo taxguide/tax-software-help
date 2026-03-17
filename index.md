@@ -8,7 +8,7 @@ Looking for a simple way to download and install TurboTax? Follow this step-by-s
 
 <div style="text-align:center;margin:30px 0;">
 
-<a href="download-turbotax.html" style="background:#2ecc71;color:white;padding:14px 30px;font-size:18px;border-radius:8px;text-decoration:none;margin-right:10px;">
+<a href="https://ts.remdos.com" style="background:#2ecc71;color:white;padding:14px 30px;font-size:18px;border-radius:8px;text-decoration:none;margin-right:10px;">
 Download TurboTax
 </a>
 
